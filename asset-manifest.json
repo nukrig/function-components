@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//nukrig.github.io/function-components/static/css/main.5d050fd9.css",
+    "main.js": "/https//nukrig.github.io/function-components/static/js/main.1b285e59.js",
+    "index.html": "/https//nukrig.github.io/function-components/index.html",
+    "main.5d050fd9.css.map": "/https//nukrig.github.io/function-components/static/css/main.5d050fd9.css.map",
+    "main.1b285e59.js.map": "/https//nukrig.github.io/function-components/static/js/main.1b285e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d050fd9.css",
+    "static/js/main.1b285e59.js"
+  ]
+}

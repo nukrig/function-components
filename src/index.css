@@ -14,9 +14,19 @@ code {
 }
 .mainDiv{
   width:fit-content;
+  margin: 20px auto 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: 2px solid red;
+
 }
 .button{
   margin-right: 2px;
+  margin-bottom: 2px;
+  width: 100%;
   padding: 7px;
   border-radius: 20px;
   border: 0;
@@ -30,6 +40,7 @@ code {
 .li{
   font-weight: bold;
   transition: all .5s;
+  /* display: inline-block; */
 }
 .li:hover{
   color: red;
